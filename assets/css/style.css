@@ -1498,3 +1498,24 @@ section {
 .logo mr-auto{
   border-radius: 1em/5em;
 }
+
+#takai1{
+  border-radius:20px;
+  
+
+}
+
+#div-formulario{
+  padding-top: 30px;
+  box-shadow:5px 5px 5px 5px rgb(189, 185, 185);
+
+  background-color: F7DFDF;
+}
+#h1_noticias{
+  text-align: center;
+}
+
+.portfolio-details-container img{
+  height: 600px;
+  width: 600px;
+}
