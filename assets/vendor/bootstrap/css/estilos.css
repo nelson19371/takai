@@ -13,8 +13,8 @@
 }
 
 .portfolio-details-container img {
-    height:500px;
-    width:500px;
+    height:100%;
+    width:400px;
     border-radius: 1.5%;
 }
 

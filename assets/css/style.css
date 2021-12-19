@@ -748,11 +748,7 @@ section {
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
-.cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/rueda.png") fixed center center;
-  background-size: cover;
-  padding: 120px 0;
-}
+
 
 .cta h3 {
   color: #fff;
@@ -799,7 +795,7 @@ section {
   display: inline-block;
   padding: 10px 15px;
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1;
   text-transform: uppercase;
   color: #444444;
@@ -1013,11 +1009,16 @@ section {
   padding: 30px 20px;
   background: #fff;
   width: 420px;
+  border-radius: 3%;
+}
+
+.member:hover{
+  width: 620px;
 }
 
 .team .member img {
   
-  border-radius: 50%;
+  border-radius: 3%;
   margin: 0 0 30px 0;
   height: 200px;
   width: 200px;
@@ -1341,7 +1342,7 @@ section {
 }
 
 #footer .footer-top {
-  padding: 60px 0 30px 0;
+  padding: 30px 0 15px 0;
 }
 
 #footer .footer-top .footer-info {
@@ -1350,7 +1351,7 @@ section {
   color: #fff;
   border-top: 4px solid #cc1616;
   text-align: center;
-  padding: 30px 20px;
+  padding: 15px 10px;
 }
 
 #footer .footer-top .footer-info h3 {
@@ -1518,4 +1519,15 @@ section {
 .portfolio-details-container img{
   height: 600px;
   width: 600px;
+}
+
+.fotosCeduc {
+
+  width: 650px;
+}
+
+
+
+.div_noticias a{
+  margin: 50px;
 }
