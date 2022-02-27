@@ -666,6 +666,11 @@ section {
   .clients img {
     width: 40%;
   }
+  iframe{
+    width: 400px;
+    height: 600px;
+    border-radius: 20px;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -1212,6 +1217,11 @@ section {
   .breadcrumbs {
     margin-top: 50px;
   }
+  iframe{
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+  }
 }
 
 .breadcrumbs h2 {
@@ -1320,6 +1330,11 @@ section {
   .portfolio-details .portfolio-info {
     position: static;
     margin-top: 30px;
+  }
+  iframe{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
   }
 }
 
@@ -1570,4 +1585,7 @@ section {
   
 }
 
-
+iframe{
+  
+  border-radius: 20px;
+}
